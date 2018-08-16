@@ -1,0 +1,9 @@
+C:\Users\William Burchett\Desktop\C#Practice\CardGame\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\William Burchett\Desktop\C#Practice\CardGame\CardGame\bin\Debug\CardGame.exe
+C:\Users\William Burchett\Desktop\C#Practice\CardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Users\William Burchett\Desktop\C#Practice\CardGame\CardGame\obj\Debug\CardGame.Form1.resources
+C:\Users\William Burchett\Desktop\C#Practice\CardGame\CardGame\obj\Debug\CardGame.Properties.Resources.resources
+C:\Users\William Burchett\Desktop\C#Practice\CardGame\CardGame\obj\Debug\CardGame.csproj.GenerateResource.Cache
+C:\Users\William Burchett\Desktop\C#Practice\CardGame\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\William Burchett\Desktop\C#Practice\CardGame\CardGame\obj\Debug\CardGame.exe
+C:\Users\William Burchett\Desktop\C#Practice\CardGame\CardGame\obj\Debug\CardGame.pdb
